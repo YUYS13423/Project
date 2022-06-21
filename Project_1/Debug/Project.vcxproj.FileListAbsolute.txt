@@ -1,0 +1,2 @@
+C:\work\Project\Debug\Project.exe
+C:\work\Project_1\Debug\Project.exe
